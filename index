@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHiC | Personalized Outfit Discovery Platform</title>
+</head>
+<body>
+    <h1>CHiC 穿搭決策推薦平台正在籌備中</h1>
+    <p>本網站為台哥大電商數位行銷職缺之創新案型 PoC 專案。</p>
+    <hr>
+    <footer>
+        <p><a href="privacy.html">隱私權政策 (Privacy Policy)</a></p>
+    </footer>
+</body>
+</html>
